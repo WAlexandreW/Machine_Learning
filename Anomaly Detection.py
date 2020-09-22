@@ -5,9 +5,9 @@ Created on Mon Jan 22 16:27:48 2018
 
 @author: Alexandre
 
-Inspired from Stanford University Coursera ML courses of Andrew Ng
-"""
+Python adaptation of the Stanford University Coursera ML courses of Andrew Ng on anomaly detections
 
+"""
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
