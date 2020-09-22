@@ -4,6 +4,8 @@
 Created on Mon Jan 22 16:27:48 2018
 
 @author: Alexandre
+
+Inspired from Stanford University Coursera ML courses of Andrew Ng
 """
 
 import matplotlib.pyplot as plt
