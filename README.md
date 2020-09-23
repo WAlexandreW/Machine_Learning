@@ -1,6 +1,6 @@
 # Machine-learning repo
 
-Some snippets I often use in most of the projects.
+Some snippets I often use in most of my projects.
 
 There are (and will be) many snippets, for example:
 - Useful & quick pre-analysis codes (descriptive statistics, anomalies detections, etc...) 
